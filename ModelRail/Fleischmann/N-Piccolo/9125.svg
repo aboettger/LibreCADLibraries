@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="117.475mm" height="58.5611mm"
+ viewBox="0 0 333 166"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>Qt Svg Document</title>
+<desc>Generated with Qt</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Droid Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M0,0 L333,0 L333,166 L0,166 L0,0"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1,0,0,1,0,0)"
+font-family="Droid Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="non-scaling-stroke" points="309,148 308,147 306,145 305,144 304,142 302,141 301,140 299,138 298,137 296,136 295,134 293,133 292,131 290,130 289,129 287,128 286,126 284,125 283,124 281,122 280,121 278,120 277,119 275,117 274,116 272,115 270,114 269,112 267,111 266,110 264,109 262,107 261,106 259,105 258,104 256,103 254,102 253,100 251,99 249,98 248,97 246,96 244,95 243,94 241,93 239,92 238,90 236,89 234,88 233,87 231,86 229,85 228,84 226,83 224,82 222,81 221,80 219,79 217,78 215,77 214,76 212,75 210,74 208,73 207,72 205,71 203,71 201,70 199,69 198,68 196,67 194,66 192,65 190,64 189,64 187,63 185,62 183,61 181,60 180,59 178,59 176,58 174,57 172,56 170,56 168,55 167,54 165,53 163,53 161,52 159,51 157,50 155,50 154,49 152,48 150,48 148,47 146,46 144,46 142,45 140,45 138,44 136,43 135,43 133,42 131,42 129,41 127,40 125,40 123,39 121,39 119,38 117,38 115,37 113,37 111,36 109,36 108,35 106,35 104,34 102,34 100,34 98,33 96,33 94,32 92,32 90,32 88,31 86,31 84,31 82,30 80,30 78,30 76,29 74,29 72,29 70,28 68,28 66,28 64,27 62,27 60,27 58,27 56,27 54,26 52,26 50,26 48,26 46,26 44,25 42,25 40,25 38,25 36,25 34,25 32,25 30,24 28,24 26,24 24,24 22,24 20,24 18,24 16,24 14,24 12,24 10,24 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="10,43 10,5 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="296,161 323,135 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="155,60 152,58 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="150,53 150,55 150,57 152,58 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="150,53 151,51 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="158,54 158,52 157,51 156,50 154,49 152,50 151,51 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="158,54 155,60 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="147,64 149,64 151,64 153,63 154,61 155,60 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="163,56 168,54 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="168,54 161,70 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="172,59 173,59 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="177,64 178,63 179,61 178,59 177,58 175,58 173,58 173,59 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="177,64 166,72 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="166,72 173,75 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="192,64 185,62 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="185,62 182,69 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="182,69 186,70 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="188,75 188,73 187,71 186,70 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="188,75 187,77 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="182,79 184,79 186,78 187,77 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="182,79 179,77 " />
+</g>
+</g>
+</svg>
