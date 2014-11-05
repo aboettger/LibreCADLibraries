@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="113.594mm" height="25.7528mm"
+ viewBox="0 0 322 73"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>Qt Svg Document</title>
+<desc>Generated with Qt</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="Droid Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M0,0 L322,0 L322,73 L0,73 L0,0"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1,0,0,1,0,0)"
+font-family="Droid Sans" font-size="10" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="non-scaling-stroke" points="21,40 21,6 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="296,52 294,51 292,51 290,51 288,50 286,50 284,49 282,49 280,49 278,48 276,48 274,47 272,47 270,47 268,46 266,46 264,46 262,45 260,45 258,44 256,44 254,44 252,43 250,43 248,43 246,42 244,42 243,42 241,41 239,41 237,41 235,40 233,40 231,40 229,39 227,39 225,39 223,39 221,38 219,38 217,38 215,37 213,37 211,37 209,36 207,36 205,36 203,36 201,35 199,35 197,35 195,35 193,34 191,34 189,34 187,33 185,33 183,33 181,33 179,33 177,32 175,32 173,32 171,32 169,31 167,31 165,31 163,31 161,30 159,30 157,30 155,30 153,30 151,29 149,29 147,29 145,29 143,29 141,28 139,28 137,28 135,28 133,28 131,28 129,27 127,27 125,27 123,27 121,27 119,27 117,27 115,26 113,26 111,26 109,26 107,26 105,26 104,26 102,25 100,25 98,25 96,25 94,25 92,25 90,25 88,25 86,25 84,24 82,24 80,24 78,24 76,24 74,24 72,24 70,24 68,24 66,24 64,24 62,24 60,24 58,24 56,23 54,23 52,23 50,23 48,23 46,23 44,23 42,23 40,23 38,23 36,23 34,23 32,23 30,23 28,23 26,23 24,23 22,23 21,23 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="299,35 292,69 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="134,30 135,29 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="140,33 140,31 140,30 139,29 138,28 136,28 135,29 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="140,33 133,41 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="133,41 139,42 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="145,31 146,30 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="151,34 151,33 151,31 150,30 149,29 147,29 146,30 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="151,34 144,43 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="144,43 150,43 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="156,32 156,31 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="161,35 162,34 162,32 161,31 159,30 158,30 157,31 156,31 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="161,35 155,44 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="155,44 161,44 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="166,33 167,33 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="172,36 172,35 172,33 171,32 170,31 168,31 167,32 167,33 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="172,36 165,45 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="165,45 171,45 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="182,43 182,42 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="182,42 182,40 181,39 180,39 178,39 177,40 176,41 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="176,41 176,43 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="176,43 176,44 177,46 179,46 180,46 182,45 182,44 182,43 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="180,39 181,38 182,37 183,36 183,35 182,33 181,33 180,32 " />
+<polyline fill="none" vector-effect="non-scaling-stroke" points="180,32 179,33 178,34 177,35 177,37 178,38 179,39 180,39 " />
+</g>
+</g>
+</svg>
